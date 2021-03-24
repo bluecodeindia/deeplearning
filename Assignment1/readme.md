@@ -1,1 +1,1 @@
-Assignment1/Report.pdf
+![Image of Yaktocat](Assignment1/Report.pdf)
