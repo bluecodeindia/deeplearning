@@ -1,1 +1,1 @@
-![A](Report.pdf)
+![](Report.pdf)
